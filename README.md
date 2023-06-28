@@ -15,10 +15,9 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Tests running successful
+<img width="604" alt="image" src="https://github.com/lennardrecke/vue-task-app/assets/115886825/60e14d10-9839-4a6b-9784-6f3b928322f5">
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo available here
+
+[Demo](vue-task-app-rho.vercel.app)

@@ -20,4 +20,4 @@ npm run build
 
 ### Demo available here
 
-[Demo](vue-task-app-rho.vercel.app)
+[Demo](https://vue-task-app-rho.vercel.app)
